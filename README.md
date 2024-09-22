@@ -1,9 +1,13 @@
 # What Makes You Happy?  
 
 **A Data Visualization Project**  
+
 **Authors**: [Jenithrika S](https://www.linkedin.com/in/jenithrika-s-4084b1226/), [Prerona Roy](https://www.linkedin.com/in/prerona-roy-160822271/)  
+
 **Mentor**: [Srijit Mukherjee](https://www.linkedin.com/in/srijit-mukherjee/)
+
 **Slides**: Find the slides for this [data analysis here](https://github.com/cheenta-statistics-datascience/what-makes-you-happy/blob/main/What%20makes%20you%20Happy_%20Slides.pdf).
+
 **R Code**: You can find [the R Code for this project here](https://github.com/cheenta-statistics-datascience/what-makes-you-happy/blob/main/R%20code%20for%20What%20Makes%20you%20happy.R).
 
 ---
