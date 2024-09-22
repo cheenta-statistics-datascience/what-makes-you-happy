@@ -1,0 +1,256 @@
+Age,Gender,Annual_Family_Income,Place_Of_Residence,Current_Status,Family_status,Study/Work_Time,Hobbies_Time,Time_For_Perosnal_Needs,Time_with_Family&Relatives,Time_with_Partner,Time_with_Friends,Health&Happiness,Happiness_Scale,Study/work time,Hobbies time,Family time,Partner time,Friends time,Sum of all the time,Personal needs time
+16,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,3,4.25,1.75,1.75,0.25,0.25,8.25,15.75
+17,Male,Less than 2 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,5,0,4.25,0.25,1.75,0.25,0.25,6.75,17.25
+17,Male,Less than 2 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,2,3,7.25,1.75,0.25,0.25,1.75,11.25,12.75
+17,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,1,3,4.25,0.25,4.25,0.25,0.25,9.25,14.75
+18,Female,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,3,3,4.25,0.25,1.75,0.25,1.75,8.25,15.75
+18,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,3-5.5 hrs,3-5.5 hrs,3,2,4.25,1.75,1.75,4.25,4.25,16.25,7.75
+18,Male,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,4,7.25,1.75,0.25,0.25,1.75,11.25,12.75
+18,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,5,7.25,1.75,1.75,0.25,0.25,11.25,12.75
+18,Female,Less than 2 Lakhs,Urban,Student,with my family,1-2.5 hrs,0-0.5 hrs,12+ hrs,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,3,3,1.75,0.25,4.25,0.25,7.25,13.75,10.25
+18,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,4,2,4.25,0.25,1.75,0.25,1.75,8.25,15.75
+18,Female,Less than 2 Lakhs,Urban,Student,away from my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,2,2,7.25,0.25,0.25,0.25,0.25,8.25,15.75
+18,Female,More than 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,12+ hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,5,7.25,1.75,1.75,0.25,0.25,11.25,12.75
+18,Female,Less than 2 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1,2,1.75,1.75,1.75,0.25,1.75,7.25,16.75
+18,Female,2 Lakhs - 6 Lakhs,Suburbs,Student,with my family,6-8.5 hrs,3-5.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,2,3,7.25,4.25,1.75,0.25,7.25,20.75,3.25
+18,Female,2 Lakhs - 6 Lakhs,Suburbs,Student,with my family,1-2.5 hrs,3-5.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,4,4,1.75,4.25,4.25,0.25,4.25,14.75,9.25
+18,Female,More than 12 Lakhs,Urban,Student,away from my family,0-0.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,4,2,0.25,0.25,1.75,1.75,4.25,8.25,15.75
+19,Male,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,12+ hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,2,3,4.25,1.75,0.25,0.25,0.25,6.75,17.25
+19,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,2,4.25,1.75,1.75,0.25,0.25,8.25,15.75
+19,Female,More than 12 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,3-5.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1,3,4.25,4.25,1.75,1.75,1.75,13.75,10.25
+19,Female,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,1,3,4.25,1.75,1.75,0.25,4.25,12.25,11.75
+19,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,2,3,4.25,1.75,1.75,0.25,1.75,9.75,14.25
+19,Male,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,4,3,4.25,0.25,1.75,0.25,1.75,8.25,15.75
+19,Female,6 Lakhs - 12 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,0,4,4.25,1.75,0.25,0.25,4.25,10.75,13.25
+19,Female,More than 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,2,7.25,1.75,1.75,1.75,0.25,12.75,11.25
+19,Female,6 Lakhs - 12 Lakhs,Urban,"Student, Part Time Employed",away from my family,6-8.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,0,3,7.25,0.25,0.25,0.25,1.75,9.75,14.25
+19,Female,More than 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,12+ hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,5,3,1.75,1.75,0.25,12,0.25,16,8
+19,Female,More than 12 Lakhs,Urban,Student,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,0,4,10.25,1.75,0.25,0.25,4.25,16.75,7.25
+19,Male,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,4,2,7.25,0.25,0.25,0.25,4.25,12.25,11.75
+19,Female,2 Lakhs - 6 Lakhs,Rural,Student,away from my family,6-8.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,3,4,7.25,0.25,0.25,0.25,4.25,12.25,11.75
+19,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,4,1,4.25,1.75,1.75,0.25,1.75,9.75,14.25
+19,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,2,4,1.75,0.25,0.25,0.25,4.25,6.75,17.25
+19,Female,More than 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,3,1.75,1.75,0.25,0.25,1.75,5.75,18.25
+19,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,0,2,4.25,1.75,1.75,0.25,4.25,12.25,11.75
+19,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,1-2.5 hrs,3-5.5 hrs,9-11.5 hrs,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,0,4,1.75,4.25,4.25,1.75,7.25,19.25,4.75
+19,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,4,3,1.75,1.75,0.25,0.25,0.25,4.25,19.75
+19,Female,2 Lakhs - 6 Lakhs,Rural,Student,away from my family,1-2.5 hrs,3-5.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,3,3,1.75,4.25,1.75,1.75,4.25,13.75,10.25
+19,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,2,4,1.75,1.75,1.75,0.25,1.75,7.25,16.75
+19,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,0-0.5 hrs,12+ hrs,12+ hrs,1-2.5 hrs,0-0.5 hrs,1,3,1.75,0.25,12,1.75,0.25,16,8
+19,Male,Less than 2 Lakhs,Rural,Student,away from my family,3-5.5 hrs,1-2.5 hrs,12+ hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,0,4,4.25,1.75,0.25,0.25,1.75,8.25,15.75
+19,Female,More than 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,3,4,1.75,0.25,4.25,0.25,1.75,8.25,15.75
+19,Female,Less than 2 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,2,7.25,1.75,0.25,0.25,1.75,11.25,12.75
+19,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,4.25,1.75,1.75,0.25,0.25,8.25,15.75
+19,Male,2 Lakhs - 6 Lakhs,Suburbs,Student,away from my family,1-2.5 hrs,3-5.5 hrs,6-8.5 hrs,0-0.5 hrs,1-2.5 hrs,12+ hrs,3,3,1.75,4.25,0.25,1.75,12,20,4
+19,Female,Less than 2 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,3,3,1.75,0.25,0.25,0.25,1.75,4.25,19.75
+19,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,12+ hrs,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,1,4,7.25,1.75,4.25,0.25,4.25,17.75,6.25
+19,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,12+ hrs,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,1,4,4.25,1.75,7.25,0.25,7.25,20.75,3.25
+19,Male,Less than 2 Lakhs,Rural,Student,with my family,0-0.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,4,5,0.25,1.75,4.25,0.25,7.25,13.75,10.25
+20,Female,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,2,3,4.25,1.75,4.25,0.25,1.75,12.25,11.75
+20,Male,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,4,2,4.25,1.75,1.75,0.25,1.75,9.75,14.25
+20,Female,More than 12 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,3,3,4.25,1.75,1.75,1.75,1.75,11.25,12.75
+20,Female,Less than 2 Lakhs,Urban,Student,with my family,12+ hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,4,2,12,0.25,1.75,0.25,0.25,14.5,9.5
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,1,4,1.75,1.75,4.25,0.25,4.25,12.25,11.75
+20,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,7.25,0.25,0.25,0.25,1.75,9.75,14.25
+20,Male,6 Lakhs - 12 Lakhs,Suburbs,Student,away from my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,3,3,7.25,0.25,1.75,0.25,4.25,13.75,10.25
+20,Male,More than 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,2,2,7.25,1.75,1.75,1.75,4.25,16.75,7.25
+20,Female,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,0,3,4.25,1.75,1.75,0.25,1.75,9.75,14.25
+20,Male,Less than 2 Lakhs,Rural,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,1,7.25,1.75,1.75,0.25,0.25,11.25,12.75
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,1.75,1.75,1.75,0.25,1.75,7.25,16.75
+20,Male,Less than 2 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,3,2,7.25,1.75,1.75,1.75,1.75,14.25,9.75
+20,Female,More than 12 Lakhs,Urban,"Student, Part Time Employed",away from my family,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,3-5.5 hrs,5,2,4.25,0.25,0.25,1.75,4.25,10.75,13.25
+20,Male,2 Lakhs - 6 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,3,2,4.25,0.25,4.25,0.25,0.25,9.25,14.75
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,3,4,7.25,0.25,1.75,0.25,4.25,13.75,10.25
+20,Female,6 Lakhs - 12 Lakhs,Rural,Student,away from my family,0-0.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,3,2,0.25,0.25,0.25,4.25,1.75,6.75,17.25
+20,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,1,4,4.25,1.75,1.75,0.25,4.25,12.25,11.75
+20,Female,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,4,2,1.75,0.25,1.75,0.25,7.25,11.25,12.75
+20,Male,Less than 2 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,0,1,7.25,1.75,4.25,0.25,0.25,13.75,10.25
+20,Female,More than 12 Lakhs,Urban,Student,away from my family,12+ hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,6-8.5 hrs,3,4,12,0.25,0.25,0.25,7.25,20,4
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,6-8.5 hrs,0-0.5 hrs,3-5.5 hrs,4,4,4.25,1.75,7.25,0.25,4.25,17.75,6.25
+20,Female,More than 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,6-8.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,4.25,7.25,4.25,0.25,1.75,17.75,6.25
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,12+ hrs,5,1,1.75,0.25,1.75,0.25,12,16,8
+20,Male,6 Lakhs - 12 Lakhs,Suburbs,Student,away from my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,7.25,0.25,0.25,0.25,1.75,9.75,14.25
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,3-5.5 hrs,9-11.5 hrs,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,2,3,7.25,4.25,10.25,0.25,7.25,29.25,-5.25
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,12+ hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,2,12,0.25,1.75,0.25,0.25,14.5,9.5
+20,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1,5,1.75,0.25,1.75,0.25,1.75,5.75,18.25
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,12+ hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,4,12,1.75,1.75,0.25,0.25,16,8
+20,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,1,3,4.25,1.75,4.25,1.75,0.25,12.25,11.75
+20,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,2,7.25,1.75,1.75,0.25,0.25,11.25,12.75
+20,Male,2 Lakhs - 6 Lakhs,Rural,Student,away from my family,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,4,3,7.25,1.75,0.25,1.75,1.75,12.75,11.25
+20,Female,Less than 2 Lakhs,Rural,Student,away from my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,3,3,4.25,1.75,0.25,0.25,1.75,8.25,15.75
+20,Male,Less than 2 Lakhs,Rural,Student,away from my family,6-8.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,9-11.5 hrs,1,4,7.25,4.25,0.25,0.25,10.25,22.25,1.75
+20,Male,More than 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,0,4,7.25,0.25,1.75,0.25,1.75,11.25,12.75
+20,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,12+ hrs,5,2,1.75,0.25,1.75,0.25,12,16,8
+20,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,5,4,7.25,1.75,1.75,0.25,1.75,12.75,11.25
+20,Female,Less than 2 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,2,3,7.25,1.75,1.75,1.75,4.25,16.75,7.25
+20,Male,Less than 2 Lakhs,Urban,Student,away from my family,6-8.5 hrs,3-5.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,3,4,7.25,4.25,1.75,0.25,7.25,20.75,3.25
+20,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,3-5.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,3,2,7.25,4.25,1.75,0.25,1.75,15.25,8.75
+21,Female,2 Lakhs - 6 Lakhs,Suburbs,"Student, Part Time Employed",away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,0,4,4.25,0.25,1.75,0.25,4.25,10.75,13.25
+21,Male,Less than 2 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,12+ hrs,0,4,4.25,0.25,0.25,10.25,12,27,-3
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,12+ hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,0,4,4.25,0.25,1.75,1.75,4.25,12.25,11.75
+21,Female,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,1,4,4.25,1.75,0.25,4.25,1.75,12.25,11.75
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,3,3,4.25,1.75,1.75,4.25,1.75,13.75,10.25
+21,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0,3,4.25,1.75,1.75,1.75,1.75,11.25,12.75
+21,Male,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,6-8.5 hrs,9-11.5 hrs,0-0.5 hrs,1-2.5 hrs,3-5.5 hrs,1,5,4.25,7.25,0.25,1.75,4.25,17.75,6.25
+21,Male,2 Lakhs - 6 Lakhs,Urban,Part Time Employed,away from my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,1,2,4.25,1.75,0.25,0.25,0.25,6.75,17.25
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,4,4.25,0.25,0.25,0.25,1.75,6.75,17.25
+21,Female,Less than 2 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,5,2,4.25,0.25,0.25,0.25,1.75,6.75,17.25
+21,Male,More than 12 Lakhs,Rural,Student,away from my family,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,6-8.5 hrs,3,3,1.75,7.25,0.25,4.25,7.25,20.75,3.25
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,3-5.5 hrs,6-8.5 hrs,2,2,4.25,1.75,1.75,4.25,7.25,19.25,4.75
+21,Female,6 Lakhs - 12 Lakhs,Suburbs,Unemployed,with my family,6-8.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,2,2,7.25,7.25,1.75,0.25,0.25,16.75,7.25
+21,Male,2 Lakhs - 6 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,12+ hrs,4,2,4.25,0.25,0.25,0.25,12,17,7
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,1-2.5 hrs,3-5.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,2,4,1.75,4.25,1.75,0.25,0.25,8.25,15.75
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,9-11.5 hrs,0-0.5 hrs,1-2.5 hrs,1,3,1.75,1.75,10.25,0.25,1.75,15.75,8.25
+21,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,0-0.5 hrs,3-5.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,5,3,0.25,4.25,1.75,0.25,0.25,6.75,17.25
+21,Male,Less than 2 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,2,3,4.25,1.75,0.25,0.25,4.25,10.75,13.25
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0,3,7.25,0.25,1.75,1.75,1.75,12.75,11.25
+21,Female,Less than 2 Lakhs,Suburbs,Student,away from my family,1-2.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,1,2,1.75,0.25,0.25,1.75,1.75,5.75,18.25
+21,Male,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,4,3,4.25,1.75,4.25,0.25,1.75,12.25,11.75
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1,3,4.25,1.75,1.75,1.75,4.25,13.75,10.25
+21,Female,More than 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,12+ hrs,3-5.5 hrs,1,4,4.25,1.75,1.75,12,4.25,24,0
+21,Female,More than 12 Lakhs,Urban,Unemployed,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,4,10.25,1.75,1.75,0.25,0.25,14.25,9.75
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,2,2,7.25,0.25,0.25,0.25,1.75,9.75,14.25
+21,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,12+ hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,4.25,1.75,4.25,0.25,0.25,10.75,13.25
+21,Male,Less than 2 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,3,2,4.25,1.75,1.75,0.25,1.75,9.75,14.25
+21,Female,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,0-0.5 hrs,0-0.5 hrs,12+ hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,2,1,0.25,0.25,1.75,0.25,7.25,9.75,14.25
+21,Other,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,4,7.25,1.75,0.25,0.25,0.25,9.75,14.25
+21,Other,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1,1,7.25,1.75,1.75,1.75,1.75,14.25,9.75
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1,3,7.25,0.25,1.75,1.75,0.25,11.25,12.75
+21,Male,6 Lakhs - 12 Lakhs,Urban,"Student, Self-employed",with my family,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,0,3,1.75,1.75,0.25,12,0.25,16,8
+21,Male,Less than 2 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,2,4,4.25,0.25,1.75,4.25,1.75,12.25,11.75
+21,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1,2,7.25,0.25,1.75,1.75,0.25,11.25,12.75
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,6-8.5 hrs,5,4,1.75,1.75,0.25,0.25,7.25,11.25,12.75
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,2,3,4.25,0.25,0.25,0.25,0.25,5.25,18.75
+21,Female,More than 12 Lakhs,Urban,Full Time Employed,with my family,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1,3,4.25,0.25,1.75,1.75,1.75,9.75,14.25
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,3,2,7.25,0.25,1.75,1.75,0.25,11.25,12.75
+21,Female,Less than 2 Lakhs,Urban,"Student, Part Time Employed",away from my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,2,1,7.25,1.75,0.25,0.25,1.75,11.25,12.75
+21,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,3,2,4.25,0.25,1.75,1.75,0.25,8.25,15.75
+21,Female,2 Lakhs - 6 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,3-5.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,3,2,4.25,4.25,4.25,0.25,1.75,14.75,9.25
+21,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,1,2,4.25,0.25,1.75,0.25,4.25,10.75,13.25
+21,Male,Less than 2 Lakhs,Rural,Student,away from my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,3,4,10.25,1.75,0.25,0.25,1.75,14.25,9.75
+21,Female,Less than 2 Lakhs,Rural,Student,away from my family,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,0,4,1.75,1.75,4.25,0.25,7.25,15.25,8.75
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,4,5,7.25,1.75,1.75,0.25,0.25,11.25,12.75
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1,4,1.75,1.75,1.75,1.75,1.75,8.75,15.25
+21,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,4.25,0.25,1.75,0.25,1.75,8.25,15.75
+21,Female,Less than 2 Lakhs,Urban,"Student, Full Time Employed",with my family,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,2,0.25,0.25,1.75,0.25,0.25,2.75,21.25
+22,Male,2 Lakhs - 6 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,3-5.5 hrs,6-8.5 hrs,3,4,4.25,0.25,1.75,4.25,7.25,17.75,6.25
+22,Male,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,3-5.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,12+ hrs,0,3,4.25,4.25,1.75,0.25,12,22.5,1.5
+22,Male,6 Lakhs - 12 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,3,4,4.25,1.75,1.75,0.25,1.75,9.75,14.25
+22,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,4,2,4.25,1.75,1.75,1.75,4.25,13.75,10.25
+22,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,0,3,4.25,0.25,4.25,1.75,0.25,10.75,13.25
+22,Male,2 Lakhs - 6 Lakhs,Urban,"Student, Self-employed",away from my family,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,1,1,4.25,0.25,0.25,0.25,0.25,5.25,18.75
+22,Female,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,3-5.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,5,4.25,4.25,0.25,0.25,0.25,9.25,14.75
+22,Male,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,3,4,4.25,0.25,0.25,1.75,0.25,6.75,17.25
+22,Female,Less than 2 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,5,3,4.25,0.25,4.25,0.25,0.25,9.25,14.75
+22,Female,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,3,4.25,1.75,0.25,0.25,1.75,8.25,15.75
+22,Male,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,4,7.25,0.25,1.75,0.25,0.25,9.75,14.25
+22,Female,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,5,0,4.25,0.25,1.75,0.25,1.75,8.25,15.75
+22,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,1-2.5 hrs,3-5.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1,3,1.75,4.25,1.75,1.75,1.75,11.25,12.75
+22,Male,More than 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,12+ hrs,0-0.5 hrs,0-0.5 hrs,12+ hrs,5,1,4.25,0.25,0.25,0.25,12,17,7
+22,Female,6 Lakhs - 12 Lakhs,Urban,Part Time Employed,with my family,6-8.5 hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,2,7.25,0.25,1.75,0.25,0.25,9.75,14.25
+22,Male,Less than 2 Lakhs,Suburbs,Student,with my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,3,1,1.75,0.25,4.25,0.25,1.75,8.25,15.75
+22,Male,Less than 2 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,6-8.5 hrs,1,1,4.25,0.25,1.75,1.75,7.25,15.25,8.75
+22,Female,Less than 2 Lakhs,Urban,"Student, Part Time Employed",with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,3,4.25,1.75,1.75,0.25,0.25,8.25,15.75
+22,Female,2 Lakhs - 6 Lakhs,Urban,Full Time Employed,with my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,2,1.75,0.25,0.25,0.25,0.25,2.75,21.25
+22,Male,6 Lakhs - 12 Lakhs,Suburbs,Student,with my family,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,3,2,1.75,0.25,0.25,0.25,0.25,2.75,21.25
+22,Male,2 Lakhs - 6 Lakhs,Suburbs,Student,with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,0,3,4.25,1.75,4.25,0.25,4.25,14.75,9.25
+22,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,4.25,1.75,7.25,0.25,0.25,13.75,10.25
+22,Female,2 Lakhs - 6 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,4,3,4.25,0.25,1.75,10.25,0.25,16.75,7.25
+22,Male,2 Lakhs - 6 Lakhs,Suburbs,Full Time Employed,with my family,0-0.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,2,1,0.25,0.25,0.25,0.25,0.25,1.25,22.75
+22,Female,2 Lakhs - 6 Lakhs,Suburbs,Student,away from my family,12+ hrs,3-5.5 hrs,9-11.5 hrs,6-8.5 hrs,12+ hrs,6-8.5 hrs,1,3,12,4.25,7.25,12,7.25,42.75,-18.75
+22,Female,6 Lakhs - 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,4,4,7.25,0.25,1.75,0.25,1.75,11.25,12.75
+22,Female,2 Lakhs - 6 Lakhs,Rural,Student,away from my family,12+ hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,2,4,12,0.25,1.75,0.25,0.25,14.5,9.5
+22,Male,Less than 2 Lakhs,Urban,Student,with my family,3-5.5 hrs,0-0.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,2,2,4.25,0.25,4.25,0.25,0.25,9.25,14.75
+22,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,3,3,4.25,1.75,0.25,0.25,1.75,8.25,15.75
+22,Female,More than 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,2,3,4.25,0.25,0.25,0.25,1.75,6.75,17.25
+22,Male,More than 12 Lakhs,Urban,Student,away from my family,1-2.5 hrs,3-5.5 hrs,3-5.5 hrs,1-2.5 hrs,12+ hrs,12+ hrs,4,3,1.75,4.25,1.75,12,12,31.75,-7.75
+22,Male,More than 12 Lakhs,Urban,"Student, Part Time Employed",away from my family,6-8.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,4,7.25,0.25,1.75,0.25,0.25,9.75,14.25
+22,Male,Less than 2 Lakhs,Urban,Student,away from my family,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1,3,10.25,0.25,1.75,1.75,4.25,18.25,5.75
+22,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,2,1.75,0.25,0.25,0.25,1.75,4.25,19.75
+22,Female,6 Lakhs - 12 Lakhs,Suburbs,Student,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,2,3,7.25,1.75,0.25,0.25,1.75,11.25,12.75
+22,Male,Less than 2 Lakhs,Rural,"Student, Self-employed",with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,1,3,7.25,1.75,4.25,0.25,0.25,13.75,10.25
+22,Male,Less than 2 Lakhs,Urban,Student,with my family,1-2.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,3-5.5 hrs,0,4,1.75,1.75,4.25,0.25,4.25,12.25,11.75
+22,Female,Less than 2 Lakhs,Rural,Student,away from my family,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,4,3,7.25,1.75,1.75,4.25,1.75,16.75,7.25
+22,Female,2 Lakhs - 6 Lakhs,Rural,Student,away from my family,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,5,1,0.25,0.25,0.25,0.25,0.25,1.25,22.75
+22,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,3-5.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,1,2,4.25,0.25,0.25,0.25,0.25,5.25,18.75
+23,Female,6 Lakhs - 12 Lakhs,Urban,Unemployed,with my family,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,4,4,4.25,1.75,4.25,1.75,0.25,12.25,11.75
+23,Male,More than 12 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,3,2,7.25,1.75,1.75,1.75,1.75,14.25,9.75
+23,Male,2 Lakhs - 6 Lakhs,Suburbs,Full Time Employed,with my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,4,3,1.75,0.25,0.25,0.25,0.25,2.75,21.25
+23,Female,More than 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,2,3,10.25,0.25,1.75,1.75,0.25,14.25,9.75
+23,Male,More than 12 Lakhs,Rural,Full Time Employed,with my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,7.25,1.75,1.75,0.25,0.25,11.25,12.75
+23,Male,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1,1,7.25,0.25,1.75,0.25,1.75,11.25,12.75
+23,Female,Less than 2 Lakhs,Urban,Student,with my family,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,1,1.75,0.25,1.75,0.25,0.25,4.25,19.75
+23,Female,6 Lakhs - 12 Lakhs,Suburbs,"Student, Full Time Employed",away from my family,12+ hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,12,0.25,0.25,0.25,0.25,13,11
+23,Male,More than 12 Lakhs,Urban,Full Time Employed,away from my family,3-5.5 hrs,6-8.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,3-5.5 hrs,4,2,4.25,7.25,0.25,0.25,4.25,16.25,7.75
+23,Male,More than 12 Lakhs,Suburbs,Full Time Employed,with my family,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,1,1.75,0.25,1.75,0.25,0.25,4.25,19.75
+23,Male,More than 12 Lakhs,Urban,Full Time Employed,away from my family,9-11.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,0,0,10.25,1.75,0.25,0.25,1.75,14.25,9.75
+23,Female,Less than 2 Lakhs,Urban,"Student, Self-employed",away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,3,1,4.25,1.75,0.25,0.25,1.75,8.25,15.75
+23,Female,6 Lakhs - 12 Lakhs,Urban,"Unemployed, house wife ",away from my family,6-8.5 hrs,3-5.5 hrs,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0,5,7.25,4.25,1.75,10.25,0.25,23.75,0.25
+23,Male,2 Lakhs - 6 Lakhs,Urban,Self-employed,with my family,9-11.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,1,5,10.25,1.75,1.75,10.25,0.25,24.25,-0.25
+23,Female,6 Lakhs - 12 Lakhs,Urban,Student,away from my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,4,1,4.25,1.75,1.75,0.25,7.25,15.25,8.75
+23,Male,6 Lakhs - 12 Lakhs,Urban,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,3-5.5 hrs,1-2.5 hrs,1,3,7.25,1.75,4.25,4.25,1.75,19.25,4.75
+23,Male,Less than 2 Lakhs,Rural,Student,with my family,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,5,1.75,1.75,1.75,0.25,0.25,5.75,18.25
+23,Male,Less than 2 Lakhs,Urban,Student,away from my family,0-0.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,3,4,0.25,0.25,1.75,0.25,7.25,9.75,14.25
+23,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,12+ hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,4,3,12,0.25,0.25,1.75,0.25,14.5,9.5
+24,Male,More than 12 Lakhs,Suburbs,Full Time Employed,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,4,3,10.25,1.75,1.75,0.25,0.25,14.25,9.75
+24,Male,2 Lakhs - 6 Lakhs,Urban,Student,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,1,7.25,1.75,0.25,0.25,0.25,9.75,14.25
+24,Male,6 Lakhs - 12 Lakhs,Urban,Student,with my family,3-5.5 hrs,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,1-2.5 hrs,2,5,4.25,7.25,7.25,0.25,1.75,20.75,3.25
+24,Male,Less than 2 Lakhs,Rural,Student,away from my family,12+ hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,0,4,12,1.75,1.75,0.25,1.75,17.5,6.5
+24,Male,Less than 2 Lakhs,Urban,Student,away from my family,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,3,3,10.25,0.25,0.25,0.25,0.25,11.25,12.75
+24,Male,2 Lakhs - 6 Lakhs,Suburbs,Student,away from my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,4.25,1.75,0.25,0.25,1.75,8.25,15.75
+24,Male,2 Lakhs - 6 Lakhs,Urban,Student,away from my family,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,4,0,0.25,0.25,0.25,0.25,1.75,2.75,21.25
+25,Male,More than 12 Lakhs,Suburbs,"Full Time Employed, Self-employed",away from my family,3-5.5 hrs,6-8.5 hrs,9-11.5 hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,3,4,4.25,7.25,0.25,4.25,1.75,17.75,6.25
+26,Male,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1,4,7.25,4.25,1.75,0.25,1.75,15.25,8.75
+26,Female,More than 12 Lakhs,Suburbs,Student,away from my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,3-5.5 hrs,0-0.5 hrs,1,2,10.25,1.75,1.75,4.25,0.25,18.25,5.75
+26,Male,6 Lakhs - 12 Lakhs,Rural,Full Time Employed,with my family,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,1.75,0.25,1.75,0.25,0.25,4.25,19.75
+27,Female,More than 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,0-0.5 hrs,9-11.5 hrs,6-8.5 hrs,3-5.5 hrs,3-5.5 hrs,3,4,10.25,0.25,7.25,4.25,4.25,26.25,-2.25
+27,Male,More than 12 Lakhs,Urban,Full Time Employed,away from my family,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,2,10.25,0.25,1.75,0.25,0.25,12.75,11.25
+27,Male,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,4,2,10.25,0.25,1.75,0.25,0.25,12.75,11.25
+28,Male,2 Lakhs - 6 Lakhs,Urban,"Student, Self-employed",away from my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,0,1,7.25,0.25,0.25,0.25,1.75,9.75,14.25
+30,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,0-0.5 hrs,3-5.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,4,2,0.25,4.25,1.75,0.25,0.25,6.75,17.25
+30,Male,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,5,1,1.75,0.25,1.75,0.25,0.25,4.25,19.75
+30,Male,6 Lakhs - 12 Lakhs,Urban,"Student, Full Time Employed",with my family,3-5.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0,4,4.25,1.75,0.25,7.25,0.25,13.75,10.25
+31,Male,2 Lakhs - 6 Lakhs,Urban,Self-employed,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,3,10.25,1.75,1.75,0.25,0.25,14.25,9.75
+31,Female,Less than 2 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,2,7.25,1.75,1.75,1.75,0.25,12.75,11.25
+31,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,3,0,7.25,0.25,4.25,0.25,0.25,12.25,11.75
+31,Female,More than 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1,4,10.25,0.25,1.75,1.75,0.25,14.25,9.75
+31,Female,6 Lakhs - 12 Lakhs,Urban,Unemployed,with my family,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,0,4,1.75,1.75,1.75,4.25,1.75,11.25,12.75
+32,Male,More than 12 Lakhs,Rural,Full Time Employed,away from my family,9-11.5 hrs,0-0.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1,3,10.25,0.25,1.75,1.75,0.25,14.25,9.75
+32,Female,2 Lakhs - 6 Lakhs,Urban,Full Time Employed,with my family,12+ hrs,0-0.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,3,4,12,0.25,7.25,1.75,0.25,21.5,2.5
+33,Female,Less than 2 Lakhs,Urban,Student,away from my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,2,2,1.75,0.25,1.75,0.25,7.25,11.25,12.75
+34,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,3-5.5 hrs,0-0.5 hrs,1,3,4.25,1.75,1.75,4.25,0.25,12.25,11.75
+34,Male,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,0,4,7.25,1.75,4.25,1.75,0.25,15.25,8.75
+36,Female,2 Lakhs - 6 Lakhs,Urban,Self-employed,with my family,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,1,1,10.25,0.25,1.75,0.25,0.25,12.75,11.25
+36,Male,6 Lakhs - 12 Lakhs,Rural,Full Time Employed,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,2,1,4.25,1.75,1.75,0.25,0.25,8.25,15.75
+37,Male,2 Lakhs - 6 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,5,0,10.25,0.25,1.75,0.25,0.25,12.75,11.25
+38,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,1-2.5 hrs,1-2.5 hrs,4,4,10.25,1.75,4.25,1.75,1.75,19.75,4.25
+38,Male,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,3-5.5 hrs,3-5.5 hrs,0-0.5 hrs,4,3,7.25,0.25,4.25,4.25,0.25,16.25,7.75
+38,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,3,7.25,0.25,1.75,1.75,0.25,11.25,12.75
+39,Female,Less than 2 Lakhs,Urban,Unemployed,with my family,1-2.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,4,1.75,0.25,1.75,1.75,0.25,5.75,18.25
+39,Female,6 Lakhs - 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,1,3,7.25,1.75,0.25,1.75,0.25,11.25,12.75
+40,Female,More than 12 Lakhs,Urban,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,3-5.5 hrs,0-0.5 hrs,0-0.5 hrs,0,5,7.25,1.75,4.25,0.25,0.25,13.75,10.25
+41,Female,2 Lakhs - 6 Lakhs,Suburbs,Full Time Employed,with my family,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,2,4,0.25,0.25,0.25,0.25,0.25,1.25,22.75
+42,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,3,4,10.25,0.25,1.75,0.25,0.25,12.75,11.25
+43,Female,6 Lakhs - 12 Lakhs,Urban,Unemployed,with my family,1-2.5 hrs,0-0.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,2,4,1.75,0.25,1.75,1.75,0.25,5.75,18.25
+43,Female,Less than 2 Lakhs,Urban,Unemployed,with my family,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,3,3,0.25,0.25,0.25,0.25,0.25,1.25,22.75
+45,Female,2 Lakhs - 6 Lakhs,Urban,Unemployed,with my family,3-5.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,1,3,4.25,1.75,1.75,7.25,0.25,15.25,8.75
+45,Female,More than 12 Lakhs,Urban,Full Time Employed,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0,2,10.25,1.75,1.75,0.25,0.25,14.25,9.75
+46,Female,Less than 2 Lakhs,Urban,Part Time Employed,with my family,12+ hrs,3-5.5 hrs,3-5.5 hrs,6-8.5 hrs,6-8.5 hrs,0-0.5 hrs,1,4,12,4.25,7.25,7.25,0.25,31,-7
+46,Male,2 Lakhs - 6 Lakhs,Urban,Self-employed,with my family,12+ hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,5,12,0.25,0.25,0.25,0.25,13,11
+47,Male,More than 12 Lakhs,Urban,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,4,7.25,1.75,1.75,1.75,0.25,12.75,11.25
+47,Female,2 Lakhs - 6 Lakhs,Rural,Unemployed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,12+ hrs,0-0.5 hrs,1-2.5 hrs,0,5,7.25,1.75,12,0.25,1.75,23,1
+47,Female,Less than 2 Lakhs,Urban,Home maker,with my family,1-2.5 hrs,0-0.5 hrs,3-5.5 hrs,3-5.5 hrs,6-8.5 hrs,0-0.5 hrs,1,3,1.75,0.25,4.25,7.25,0.25,13.75,10.25
+48,Female,Less than 2 Lakhs,Suburbs,Home maker ,with my family,9-11.5 hrs,1-2.5 hrs,9-11.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,3,10.25,1.75,1.75,1.75,0.25,15.75,8.25
+48,Female,2 Lakhs - 6 Lakhs,Rural,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,3-5.5 hrs,3-5.5 hrs,1-2.5 hrs,0,4,7.25,1.75,4.25,4.25,1.75,19.25,4.75
+48,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,6-8.5 hrs,0-0.5 hrs,9-11.5 hrs,3-5.5 hrs,3-5.5 hrs,1-2.5 hrs,1,4,7.25,0.25,4.25,4.25,1.75,17.75,6.25
+49,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,0-0.5 hrs,0-0.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,1,2,0.25,0.25,1.75,1.75,0.25,4.25,19.75
+49,Male,Less than 2 Lakhs,Rural,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,1-2.5 hrs,0-0.5 hrs,4,2,7.25,1.75,4.25,1.75,0.25,15.25,8.75
+49,Male,More than 12 Lakhs,Urban,Full Time Employed,away from my family,9-11.5 hrs,0-0.5 hrs,1-2.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,4,10.25,0.25,0.25,0.25,0.25,11.25,12.75
+50,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,3-5.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,1-2.5 hrs,1,4,4.25,1.75,1.75,1.75,1.75,11.25,12.75
+50,Male,More than 12 Lakhs,Urban,Full Time Employed,with my family,0-0.5 hrs,0-0.5 hrs,1-2.5 hrs,3-5.5 hrs,3-5.5 hrs,0-0.5 hrs,4,4,0.25,0.25,4.25,4.25,0.25,9.25,14.75
+50,Male,6 Lakhs - 12 Lakhs,Urban,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,3-5.5 hrs,9-11.5 hrs,1-2.5 hrs,3,4,7.25,1.75,4.25,10.25,1.75,25.25,-1.25
+50,Female,6 Lakhs - 12 Lakhs,Urban,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,6-8.5 hrs,6-8.5 hrs,0-0.5 hrs,0,4,7.25,1.75,7.25,7.25,0.25,23.75,0.25
+53,Male,Less than 2 Lakhs,Rural,Self-employed,away from my family,6-8.5 hrs,1-2.5 hrs,9-11.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,4,7.25,1.75,0.25,0.25,0.25,9.75,14.25
+55,Male,2 Lakhs - 6 Lakhs,Urban,Full Time Employed,away from my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,0-0.5 hrs,0-0.5 hrs,0,5,7.25,1.75,0.25,0.25,0.25,9.75,14.25
+56,Male,More than 12 Lakhs,Urban,Self-employed,with my family,9-11.5 hrs,1-2.5 hrs,6-8.5 hrs,1-2.5 hrs,1-2.5 hrs,0-0.5 hrs,0,4,10.25,1.75,1.75,1.75,0.25,15.75,8.25
+56,Female,6 Lakhs - 12 Lakhs,Urban,Self-employed,with my family,6-8.5 hrs,1-2.5 hrs,6-8.5 hrs,0-0.5 hrs,6-8.5 hrs,0-0.5 hrs,1,4,7.25,1.75,0.25,7.25,0.25,16.75,7.25
